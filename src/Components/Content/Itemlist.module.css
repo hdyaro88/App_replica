@@ -1,0 +1,25 @@
+.itemlist {
+  position: relative;
+  top: 10vh;
+  left: 20%;
+  width: 80%;
+  height: calc(100% - 10vh);
+  text-align: start;
+}
+.create_btn {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  height: 3vh;
+  width: 7vw;
+  border: none;
+  background-color: rgb(231, 139, 0);
+  border-radius: 5px;
+  font-style: bold;
+  color: white;
+}
+@media (max-width: 840px) {
+  .create_btn {
+    width: 20vw;
+  }
+}

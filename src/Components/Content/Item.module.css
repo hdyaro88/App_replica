@@ -1,0 +1,73 @@
+.card {
+  width: auto;
+  height: auto;
+  max-width: 1000px;
+  margin-top: 2vh;
+  margin-left: 25px;
+}
+.flex_container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+.flex_container div {
+  width: 50%;
+}
+
+.item_list_left img,
+.item_list_left label {
+  display: block;
+  margin-left: 10px;
+  width: fit-content;
+  height: auto;
+  float: left;
+}
+.item_list_left {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+.item_list_right {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.downbar_button {
+  display: block;
+  color: #ffff;
+  background-color: burlywood;
+}
+.extra_div a:hover {
+  color: blue;
+}
+.dropDown {
+  display: flex;
+  border: 2px solid grey;
+  flex-wrap: wrap;
+  z-index: 30;
+  text-align: start;
+}
+.dropDown label {
+  width: 100%;
+  display: block;
+  border-bottom: 1px solid grey;
+}
+.dropDown label:nth-child(3) {
+  border-bottom: none;
+}
+@media (max-width: 1368px) {
+  .card {
+    margin: auto;
+  }
+}
+@media (max-width: 480px) {
+  .card {
+    font-size: x-small;
+  }
+}
