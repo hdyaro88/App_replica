@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hdyaro88.github.io/App_replica/static/css/main.200e26b6.chunk.css",
-    "main.js": "/hdyaro88.github.io/App_replica/static/js/main.4c304768.chunk.js",
-    "main.js.map": "/hdyaro88.github.io/App_replica/static/js/main.4c304768.chunk.js.map",
-    "runtime-main.js": "/hdyaro88.github.io/App_replica/static/js/runtime-main.9b8ec43c.js",
-    "runtime-main.js.map": "/hdyaro88.github.io/App_replica/static/js/runtime-main.9b8ec43c.js.map",
-    "static/js/2.80233db1.chunk.js": "/hdyaro88.github.io/App_replica/static/js/2.80233db1.chunk.js",
-    "static/js/2.80233db1.chunk.js.map": "/hdyaro88.github.io/App_replica/static/js/2.80233db1.chunk.js.map",
-    "index.html": "/hdyaro88.github.io/App_replica/index.html",
-    "static/css/main.200e26b6.chunk.css.map": "/hdyaro88.github.io/App_replica/static/css/main.200e26b6.chunk.css.map",
-    "static/js/2.80233db1.chunk.js.LICENSE.txt": "/hdyaro88.github.io/App_replica/static/js/2.80233db1.chunk.js.LICENSE.txt"
+    "main.css": "/App_replica/static/css/main.200e26b6.chunk.css",
+    "main.js": "/App_replica/static/js/main.4c304768.chunk.js",
+    "main.js.map": "/App_replica/static/js/main.4c304768.chunk.js.map",
+    "runtime-main.js": "/App_replica/static/js/runtime-main.4b28911b.js",
+    "runtime-main.js.map": "/App_replica/static/js/runtime-main.4b28911b.js.map",
+    "static/js/2.80233db1.chunk.js": "/App_replica/static/js/2.80233db1.chunk.js",
+    "static/js/2.80233db1.chunk.js.map": "/App_replica/static/js/2.80233db1.chunk.js.map",
+    "index.html": "/App_replica/index.html",
+    "static/css/main.200e26b6.chunk.css.map": "/App_replica/static/css/main.200e26b6.chunk.css.map",
+    "static/js/2.80233db1.chunk.js.LICENSE.txt": "/App_replica/static/js/2.80233db1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b8ec43c.js",
+    "static/js/runtime-main.4b28911b.js",
     "static/js/2.80233db1.chunk.js",
     "static/css/main.200e26b6.chunk.css",
     "static/js/main.4c304768.chunk.js"
