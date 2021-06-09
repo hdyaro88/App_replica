@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hdyaro88.github.io/App_replica/static/css/main.200e26b6.chunk.css",
+    "main.js": "/hdyaro88.github.io/App_replica/static/js/main.23f73541.chunk.js",
+    "main.js.map": "/hdyaro88.github.io/App_replica/static/js/main.23f73541.chunk.js.map",
+    "runtime-main.js": "/hdyaro88.github.io/App_replica/static/js/runtime-main.9b8ec43c.js",
+    "runtime-main.js.map": "/hdyaro88.github.io/App_replica/static/js/runtime-main.9b8ec43c.js.map",
+    "static/js/2.b12c8a13.chunk.js": "/hdyaro88.github.io/App_replica/static/js/2.b12c8a13.chunk.js",
+    "static/js/2.b12c8a13.chunk.js.map": "/hdyaro88.github.io/App_replica/static/js/2.b12c8a13.chunk.js.map",
+    "index.html": "/hdyaro88.github.io/App_replica/index.html",
+    "static/css/main.200e26b6.chunk.css.map": "/hdyaro88.github.io/App_replica/static/css/main.200e26b6.chunk.css.map",
+    "static/js/2.b12c8a13.chunk.js.LICENSE.txt": "/hdyaro88.github.io/App_replica/static/js/2.b12c8a13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b8ec43c.js",
+    "static/js/2.b12c8a13.chunk.js",
+    "static/css/main.200e26b6.chunk.css",
+    "static/js/main.23f73541.chunk.js"
+  ]
+}
